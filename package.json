@@ -4,8 +4,8 @@
   "description": "_This project is based on Dave Gray's Node.js course published on youtube. Link to the tutorial can be found below._",
   "main": "01jsfs.js",
   "scripts": {
-    "start": "node 04indexnpm",
-    "dev": "nodemon 04indexnpm"
+    "start": "node index",
+    "dev": "nodemon index"
   },
   "author": "",
   "license": "ISC",
